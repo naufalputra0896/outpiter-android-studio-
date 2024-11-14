@@ -1,0 +1,13 @@
+
+  // IntelliJ API Decompiler stub source generated from a class file
+  // Implementation of methods is not available
+
+package com.example.outpiters;
+
+public class MainActivity extends androidx.appcompat.app.AppCompatActivity {
+    public MainActivity() { /* compiled code */ }
+
+    protected void onCreate(android.os.Bundle savedInstanceState) { /* compiled code */ }
+
+    public void goToSignUpPage(android.view.View view) { /* compiled code */ }
+}
